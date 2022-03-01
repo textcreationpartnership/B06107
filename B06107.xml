@@ -1,0 +1,143 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>To his Grace John Marquess of Tweeddale, his Majesties High Commissioner for the kingdom of Scotland, the humble petition of Nicholas Dupin Esquire, Joseph Blake, Peter Kersteman, and Nathaniel VVyersdale of London merchants, in behalf of themselves and ... their partners, for working of all sorts of mines and mineralls in his Majesties ancient kingdom of Scotland.</title>
+            <author>Dupin, Nicholas.</author>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1695</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 4 KB of XML-encoded text transcribed from 3 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2011-04">2011-04 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">B06107</idno>
+            <idno type="STC">Wing T1363J</idno>
+            <idno type="STC">ESTC R185113</idno>
+            <idno type="EEBO-CITATION">52615000</idno>
+            <idno type="OCLC">ocm 52615000</idno>
+            <idno type="VID">176231</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. B06107)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 176231)</note>
+            <note>Images scanned from microfilm: (Early English Books, 1641-1700 ; 2765:13)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>To his Grace John Marquess of Tweeddale, his Majesties High Commissioner for the kingdom of Scotland, the humble petition of Nicholas Dupin Esquire, Joseph Blake, Peter Kersteman, and Nathaniel VVyersdale of London merchants, in behalf of themselves and ... their partners, for working of all sorts of mines and mineralls in his Majesties ancient kingdom of Scotland.</title>
+                  <author>Dupin, Nicholas.</author>
+                  <author>Blake, Joseph, fl. 1695.</author>
+                  <author>Wyersdale, Nathaniel, fl. 1695.</author>
+               </titleStmt>
+               <extent>1 sheet ([2] p.)   </extent>
+               <publicationStmt>
+                  <publisher>s.n.,</publisher>
+                  <pubPlace>[Edinburgh :</pubPlace>
+                  <date>1695?]</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Caption title.</note>
+                  <note>Place and date of publication suggested by Wing (2nd ed.).</note>
+                  <note>Reproduction of original in: National Library of Scotland.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Mines and mineral resources --  Scotland --  Early works to 1800.</term>
+               <term>Broadsides --  Scotland --  17th century.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2008-12</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2009-02</date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2009-03</date>
+            <label>Mona Logarbo</label>Sampled and proofread</change>
+         <change>
+            <date>2009-03</date>
+            <label>Mona Logarbo</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2009-09</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <body>
+         <div type="text">
+            <pb facs="tcp:176231:1"/>
+            <!-- PDF PAGE 28 -->
+            <pb n="1" facs="tcp:176231:1"/>
+            <!-- PDF PAGE 28 -->
+            <head>To His Grace <hi>John</hi> Marqueſs of <hi>Tweeddale,</hi> His Ma<g ref="char:EOLhyphen"/>jeſties High Commiſsioner for the Kingdom of <hi>Scotland.</hi>
+            </head>
+            <head type="sub">
+               <hi>The humble PETITION of Nicholas Dupin</hi> Eſquire, <hi>Joſeph Blake, Peter Kerſte<g ref="char:EOLhyphen"/>man,</hi> and <hi>Nathaniel VVyerſdale</hi> of <hi>London</hi> Merchants, in behalf of themſelves and divers other Merchants of the City of <hi>London,</hi> their Partners, for WORKING of all ſorts of MINES and MINE<g ref="char:EOLhyphen"/>RALLS in this His MAJESTIES ancient Kingdom <hi>of SCOTLAND.</hi>
+            </head>
+            <opener>Moſt humbly ſheweth,</opener>
+            <p>THat Your Petitioners for theſe ſeveral years by-paſt, have at their own proper Coſts and Charges in Forreign parts, and at home, made it their Buſineſs to find out and diſcover, the Art and Myſtery not heretofore uſed in this Kingdom, <hi>viz.</hi> The Art of Finding, Preparing, and Working of Mines, and all ſorts of Minerals, Oars and Mettals. And to that end, Your Petitioners have provided and agreed with ſeveral skillful Outlan<g ref="char:EOLhyphen"/>diſh Ingeneers, and others, well known to be good and experienced Artiſts, in diſcovering all ſorts of Mines, and Working and Smelting all ſorts of Minerals, Oars and Mettals whatſoever.</p>
+            <p>And whereas Your Petitioners have agreed, and taken ſundry Leaſes or Tacks from ſeveral perſons in this Kingdom, for conſiderable Terms of years, of their Mines, Oars, and Minerals in their Lands. And for the eſtabliſhing and better carrying on ſo good and National an Undertaking, (without the leaſt intent to hinder or prejudice any other perſon, or perſons whatſoever, who have already ſet up the Working any Mines or Minerals in this Kingdom) have raiſed a conſiderable Joynt Stock, to be imployed in their Mines and Minerals here; by means whereof, not only their ſaid Ingeneers and Artiſts, but alſo a great number of poor People and others, are at preſent actually im<g ref="char:EOLhyphen"/>ployed, which will highly advance the Wealth of this Kingdom, by bringing forth out of the Ground, thoſe Treaſures that have been ſo long hidden.</p>
+            <pb n="2" facs="tcp:176231:2"/>
+            <!-- PDF PAGE 29 -->
+            <p>And whereas Your Petitioners are credibly informed, that great quantities of Copper is yearly imported from <hi>Swedland,</hi> and ſeveral other Forreign parts, into this Kingdom, to the great prejudice of the Ballance of Trade. And Your Petitioners being well aſſured, of being able out of their ſeveral Mines, to furniſh this Kingdom with Good Fine Copper, which for the future will not only be a Means to prevent the Importation thereof, but will alſo ſave great Sums of money in this Kingdom, which hath heretofore gone thence to anſwer the ſame; and will imploy many poor People, improve Trade, and tend to the enriching this Nation.</p>
+            <p>Your Petitioners therefore, in behalf of themſelves and their ſeveral Part<g ref="char:EOLhyphen"/>ners, humbly pray this Moſt Honourable Houſe of Parliament, will be pleaſed to grant unto Your Petitioners, that the ſaid Mines and Mine<g ref="char:EOLhyphen"/>ral-Works, and Undertakings, may be created a Manufactory; and from henceforth be called by The Name of The <hi>Company,</hi> for Working of Mines and Minerals in the Kingdom of <hi>Scotland:</hi> With Priviledge unto Your Petitioners, to make, or cauſe to be made, Pence, Half<g ref="char:EOLhyphen"/>pence and Boadles, out of the Copper of this Nation; with a <hi>proviſo</hi> therein, that the ſame ſhall not hinder nor obſtruct any perſon or per<g ref="char:EOLhyphen"/>ſons, who have already ſet up the Working Mines, Minerals or fore<g ref="char:EOLhyphen"/>ſaids in this Kingdoms Provided alſo, that the foreſaid Grant ſhall not prejudice His Majeſty, His Heirs and Succeſſors, in their Rents, Rights and Revenues, out of any Royal Mines in this Kingdom.</p>
+            <closer>And Your Petitioners ſhall ever pray: <hi>&amp;c.</hi>
+            </closer>
+            <pb facs="tcp:176231:2"/>
+            <!-- PDF PAGE 29 -->
+            <pb facs="tcp:176231:3"/>
+            <!-- PDF PAGE 30 -->
+            <pb facs="tcp:176231:3"/>
+            <!-- PDF PAGE 30 -->
+         </div>
+      </body>
+   </text>
+</TEI>
